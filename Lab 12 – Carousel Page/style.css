@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-img1 {
+  background-color: #000;
+  background-image: url(/img/lo-fi-background-digital-art-1eal6irnz09bvq45-1eal6irnz09bvq45.jpg);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-image: url(/img/ytkkbowirm061.jpg);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-image: url(/img/Lofi-Wallpapers-HD-Free-download.jpg);
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+}
